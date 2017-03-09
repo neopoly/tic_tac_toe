@@ -1,13 +1,15 @@
 Tic Tac Toe
 ===========
 
-Browser based Tic Tac Toe
+Browser based [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
 
 Gameplay
 --------
 
 2 players play Tic Tac Toe taking turns on the same browser window (no network-multiplayer, no AI).
+
+You can find detailed information about the game on [Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe).
 
 
 Target design
